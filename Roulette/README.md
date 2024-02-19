@@ -1,4 +1,4 @@
-============ Roulette.py manual ======================================
+============ Roulette.py manual ======================================<br>
 Here's how to play! This manual is geared more toward how to run this
 specific Python program, not how to play the actual game of roulette. 
 
